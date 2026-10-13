@@ -1,0 +1,10 @@
+names:
+- bus
+- car
+- pickup
+- truck
+- van
+nc: 5
+path: /home/rashedul/project/YOLO_PROJECT/archive/vehicles
+train: train/images
+val: val/images
